@@ -10,5 +10,3 @@ Mi fascinación por la tecnología me lleva a explorar e innovar en cada proyect
 
 ## 🛠️ Herramientas y Tecnologías
 Utilizo una gama variada de tecnologías, desde React para crear interfaces modernas hasta Flask para el desarrollo de robustas API. Además, me encanta trabajar con herramientas como Tailwind y CSS para dar vida a diferentes estilos.
-
-Siempre estoy abierto a nuevas conexiones, colaboraciones y desafíos. ¡Vamos a explorar juntos el apasionante mundo de la tecnología!
