@@ -1,12 +1,12 @@
-# ¡Hola! Soy Pablo Sanabria 👋
+# Hello! I’m Pablo Sanabria 👋
 
-Soy un estudiante destacado de Ingeniería en Sistemas cursando los ultimos semestres, apasionado por la tecnología y un eterno aprendiz en este fascinante entorno.
+I am an outstanding Systems Engineering, passionate about technology and a lifelong learner in this fascinating field.
 
-## 💻 Especialización
-Me especializo en el desarrollo Full Stack y tengo conocimientos en una diversidad de lenguajes como Python, C#, C++, y JavaScript. Además, mi curiosidad también se extiende a áreas como la Inteligencia Artificial, Redes y Sistemas Operativos.
+## 💻 Specialization
+I specialize in Full Stack development and have experience with a variety of programming languages such as Python, C#, C++, and JavaScript. In addition, my curiosity extends to areas like Artificial Intelligence, Networks, and Operating Systems.
 
-## 💡 Inspiración
-Mi fascinación por la tecnología me lleva a explorar e innovar en cada proyecto. Desde crear interfaces agradables para el usuario hasta implementar lógica de servidor, mi objetivo es crear software de calidad que mejore la experiencia de los usuarios.
+## 💡 Inspiration
+My fascination with technology drives me to explore and innovate in every project. From creating user-friendly interfaces to implementing server-side logic, my goal is to build high-quality software that enhances the user experience.
 
-## 🛠️ Herramientas y Tecnologías
-Utilizo una gama variada de tecnologías, particularmente los entornos que ofrecen React y NodeJS para el desarrollo web son en los que me especializo. 
+## 🛠️ Tools & Technologies
+I work with a wide range of technologies, with a strong focus on web development environments, particularly those based on React and Node.js.
